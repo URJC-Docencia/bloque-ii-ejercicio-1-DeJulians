@@ -75,7 +75,7 @@ public class LCRSTreeTest {
     }
 
 
-/*	public void testParent() {
+	public void testParent() {
 		this.setTree();
 
 		try {
@@ -85,7 +85,7 @@ public class LCRSTreeTest {
 			assertTrue(true);
 		}
 
-	}*/
+	}
 
 
     @Test
